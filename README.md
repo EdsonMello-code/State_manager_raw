@@ -5,7 +5,7 @@
 ### Flutter sem estado
 
 - Construtor;
-- Chama do método build
+- A chamada do método build
 
 ### Flutter com estado
 
