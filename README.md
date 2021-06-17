@@ -10,7 +10,7 @@
 ### Flutter com estado
 
 - Construtor
-- Chama o metodo createState
+- A chamada o metodo createState
 - Marcado como dirty
 - build
 - clean
@@ -23,3 +23,5 @@
 
 - Altera o estado de toda a aplicação rebuild ela, ou seja, marca ele como dirty
 - Inteligente para reconstruir somente os widget filho que tenha estado
+
+### ChangeNotifier
