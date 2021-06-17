@@ -10,7 +10,7 @@
 ### Flutter com estado
 
 - Construtor
-- A chamada o metodo createState
+- A chamada do metodo createState
 - Marcado como dirty
 - build
 - clean
